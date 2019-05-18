@@ -1,0 +1,4 @@
+pytest
+pyhamcrest
+multiprocess
+dill
